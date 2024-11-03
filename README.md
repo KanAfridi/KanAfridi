@@ -45,7 +45,7 @@ I'm always looking to learn more! Right now, I’m focused on:
 
 ### 📫 How to Reach Me
 - **GitHub:** [Your GitHub Profile URL]
-- **LinkedIn:** [[Your LinkedIn URL, if you have one](https://www.linkedin.com/in/binyameen-afridi-2245a5249/)]
-- **Instagram:** [https://www.instagram.com/khon_opridai_]
+- **LinkedIn:** [[Myy Linkdin Profile](https://www.linkedin.com/in/binyameen-afridi-2245a5249/)]
+- **Instagram:** [[My Instagram](https://www.instagram.com/khon_opridai_)]
 
 Thanks for stopping by! Feel free to check out my projects, and reach out if you'd like to connect or collaborate! 😊
