@@ -72,6 +72,8 @@ I'm always looking to learn more! Right now, I’m focused on:
 
 ***Thanks for stopping by! Feel free to check out my projects, and reach out if you'd like to connect or collaborate! You are welcome😊***
 
+<br>
+
 ## My Github Statistics
 
 [<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanafridi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>](https://github.com/kanafridi/)
