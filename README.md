@@ -66,13 +66,15 @@ I'm always looking to learn more! Right now, I’m focused on:
 
 ---
 
-[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanafridi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>](https://github.com/kanafridi/)
-[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&theme=dark&hide_border=true"/>](https://github.com/kanafridi)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanafridi&show_icons=true&theme=dark&utcOffset=8)
-
-
 ## 📫 How to Reach Me
 - **LinkedIn:** [[Myy Linkdin Profile](https://www.linkedin.com/in/binyameen-afridi-2245a5249/)]
 - **Instagram:** [[My Instagram](https://www.instagram.com/binyameen_data_analyst/)]
 
-Thanks for stopping by! Feel free to check out my projects, and reach out if you'd like to connect or collaborate! 😊
+***Thanks for stopping by! Feel free to check out my projects, and reach out if you'd like to connect or collaborate! You are welcome😊***
+
+## My Github Statistics
+
+[<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kanafridi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>](https://github.com/kanafridi/)
+[<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKHMAN-SINGH-1612&layout=compact&theme=dark&hide_border=true"/>](https://github.com/kanafridi)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanafridi&show_icons=true&theme=dark&utcOffset=8)
+
